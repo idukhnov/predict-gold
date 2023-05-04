@@ -55,5 +55,9 @@ https://github.com/idukhnov/predict-gold
 Диаграмма развертывания
 ![image](https://user-images.githubusercontent.com/130751773/236292032-57536fe0-568f-4d1b-a487-7392dd6c63a6.png)
 
+Схема рабочего процесса
+<img width="1103" alt="image" src="https://user-images.githubusercontent.com/130751773/236300108-1794000a-02f4-4f41-bd60-7d90275dd702.png">
+
+
 
 
